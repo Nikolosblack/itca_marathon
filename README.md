@@ -9,8 +9,8 @@
 <tbody>
 <tr>
 <td align="center">01</td>
-<td align="center"><a href="https://github.com/Nikolosblack/goit_marathon/tree/main/goit_resume">Resume goIT</a></td>
-<td align="center"><a href="https://nikolosblack.github.io/goit_marathon/goit_resume/" rel="nofollow">Live Demo</a></td>
+<td align="center"><a href="https://github.com/Nikolosblack/itca_marathon/tree/main/landing-itca-marathon">ITCA Marathon</a></td>
+<td align="center"><a href="" rel="nofollow">Live Demo</a></td>
 </tr>
 </tbody>
 </table>
